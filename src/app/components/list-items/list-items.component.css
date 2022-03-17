@@ -1,0 +1,19 @@
+.action-group{
+    display: flex;
+    padding: 10px;
+    justify-content: end;
+
+}
+
+.table-outer{
+    padding: 20px;
+}
+
+.table-cust{
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.spinner-cont{
+    height: 90vh;
+}
